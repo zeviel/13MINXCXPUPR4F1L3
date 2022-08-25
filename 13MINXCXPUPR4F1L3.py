@@ -2,8 +2,8 @@ import amino
 from io import BytesIO
 from requests import get
 print("""\u001b[31m
-Script by deluvsushi
-Github : https://github.com/deluvsushi
+Script by zeviel
+Github : https://github.com/zeviel
 ▄█─ █▀▀█ ░█▀▄▀█ ▀█▀ ░█▄─░█ ▀▄░▄▀ ░█▀▀█ ▀▄░▄▀ ░█▀▀█ ░█─░█ ░█▀▀█ ░█▀▀█ ─█▀█─ ░█▀▀▀ ▄█─ ░█─── █▀▀█ 
 ─█─ ──▀▄ ░█░█░█ ░█─ ░█░█░█ ─░█── ░█─── ─░█── ░█▄▄█ ░█─░█ ░█▄▄█ ░█▄▄▀ █▄▄█▄ ░█▀▀▀ ─█─ ░█─── ──▀▄ 
 ▄█▄ █▄▄█ ░█──░█ ▄█▄ ░█──▀█ ▄▀░▀▄ ░█▄▄█ ▄▀░▀▄ ░█─── ─▀▄▄▀ ░█─── ░█─░█ ───█─ ░█─── ▄█▄ ░█▄▄█ █▄▄█
